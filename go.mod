@@ -1,3 +1,3 @@
-module github.com/hugo-blox/create-blox
+module github.com/lingeringcode/hugo-blox-cv-hero
 
 go 1.19
