@@ -1,3 +1,3 @@
-module github.com/lingeringcode/hugo-blox-cv-hero
+module github.com/lingeringcode/lndgrn-cv-hero
 
 go 1.19
