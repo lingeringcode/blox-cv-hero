@@ -1,12 +1,13 @@
-.page-body > .blox-github-lingeringcode-lndgrn-cv-hero {
+/* Add your block styles here */
+
+.page-body > .blox-github-lingeringcode-lndgrn-cv-hero,
+#section-github-lingeringcode-lndgrn-cv-hero {
   padding: 0 !important;
   background-color: #f6e632;
 }
 
 .section__hero_banner {
   padding: 20px 0;
-  background: #fff;
-  padding: 110px 0;
   position: relative;
   z-index: -1;
 
