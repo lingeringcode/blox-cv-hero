@@ -1,9 +1,6 @@
-/* Add your block styles here */
-
-.page-body > .blox-github-lingeringcode-lndgrn-cv-hero,
+.home-section-bg,
 #section-github-lingeringcode-lndgrn-cv-hero {
-  padding: 0 !important;
-  background-color: #f6e632;
+  padding: 0 !important;background-color: #f6e632;
 }
 
 .section__hero_banner {
@@ -11,11 +8,12 @@
   position: relative;
   z-index: -1;
 
-  & .parallax {
+  .parallax {
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    min-height: 300px;
 
     position: absolute;
     top: 0;
